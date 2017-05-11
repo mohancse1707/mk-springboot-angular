@@ -1,0 +1,14 @@
+{
+  "name": "mkr-springcustom-security",
+  "version": "1.0.0",
+  "authors": [
+    "Mohankumar Rathinam"
+  ],
+ "dependencies": {
+    "angular": "1.6.1",
+    "jquery": "3.1.1",
+    "angular-ui-router": "0.4.2",
+    "angular-resource": "1.6.1",
+    "angular-bootstrap":"2.5.0"
+ }
+}
