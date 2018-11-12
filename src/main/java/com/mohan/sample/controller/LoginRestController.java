@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Created by s726337 on 01/03/2017.
+ * Created by Mohan on 01/03/2017.
  */
 @RestController
 @RequestMapping("app/rest/auth")

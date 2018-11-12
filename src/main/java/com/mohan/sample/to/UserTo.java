@@ -1,7 +1,7 @@
 package com.mohan.sample.to;
 
 /**
- * Created by s726337 on 25/04/2017.
+ * Created by Mohan on 25/04/2017.
  */
 public class UserTo {
 

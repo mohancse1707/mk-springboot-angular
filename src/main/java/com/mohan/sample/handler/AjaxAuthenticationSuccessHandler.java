@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * Created by s726337 on 13/04/2017.
+ * Created by Mohan on 13/04/2017.
  */
 @Component
 public class AjaxAuthenticationSuccessHandler  extends SimpleUrlAuthenticationSuccessHandler{
